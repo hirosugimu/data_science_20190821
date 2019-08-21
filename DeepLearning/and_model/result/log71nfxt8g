@@ -1,0 +1,270 @@
+[
+    {
+        "main/loss": 0.7774002552032471,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7757151126861572,
+        "validation/main/accuracy": 0.5,
+        "epoch": 1,
+        "iteration": 1,
+        "elapsed_time": 0.0102585507167044
+    },
+    {
+        "main/loss": 0.7757151126861572,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7740402221679688,
+        "validation/main/accuracy": 0.5,
+        "epoch": 2,
+        "iteration": 2,
+        "elapsed_time": 0.022704121125139094
+    },
+    {
+        "main/loss": 0.7740402221679688,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7723759412765503,
+        "validation/main/accuracy": 0.5,
+        "epoch": 3,
+        "iteration": 3,
+        "elapsed_time": 0.035187325036286396
+    },
+    {
+        "main/loss": 0.7723758816719055,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7707222700119019,
+        "validation/main/accuracy": 0.5,
+        "epoch": 4,
+        "iteration": 4,
+        "elapsed_time": 0.047598968271821085
+    },
+    {
+        "main/loss": 0.7707222700119019,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7690793871879578,
+        "validation/main/accuracy": 0.5,
+        "epoch": 5,
+        "iteration": 5,
+        "elapsed_time": 0.060620445312675963
+    },
+    {
+        "main/loss": 0.7690794467926025,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7674474716186523,
+        "validation/main/accuracy": 0.5,
+        "epoch": 6,
+        "iteration": 6,
+        "elapsed_time": 0.07439544771466278
+    },
+    {
+        "main/loss": 0.7674474716186523,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7658267021179199,
+        "validation/main/accuracy": 0.5,
+        "epoch": 7,
+        "iteration": 7,
+        "elapsed_time": 0.08812854007953784
+    },
+    {
+        "main/loss": 0.7658267021179199,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7642170786857605,
+        "validation/main/accuracy": 0.5,
+        "epoch": 8,
+        "iteration": 8,
+        "elapsed_time": 0.10038138133771707
+    },
+    {
+        "main/loss": 0.7642170786857605,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7626187205314636,
+        "validation/main/accuracy": 0.5,
+        "epoch": 9,
+        "iteration": 9,
+        "elapsed_time": 0.1126578860862383
+    },
+    {
+        "main/loss": 0.7626186609268188,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7610317468643188,
+        "validation/main/accuracy": 0.5,
+        "epoch": 10,
+        "iteration": 10,
+        "elapsed_time": 0.12675305836357556
+    },
+    {
+        "main/loss": 0.7610317468643188,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7594563961029053,
+        "validation/main/accuracy": 0.5,
+        "epoch": 11,
+        "iteration": 11,
+        "elapsed_time": 0.1416525042102481
+    },
+    {
+        "main/loss": 0.7594563961029053,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7578925490379333,
+        "validation/main/accuracy": 0.5,
+        "epoch": 12,
+        "iteration": 12,
+        "elapsed_time": 0.1556139635120383
+    },
+    {
+        "main/loss": 0.7578925490379333,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7563403844833374,
+        "validation/main/accuracy": 0.5,
+        "epoch": 13,
+        "iteration": 13,
+        "elapsed_time": 0.1728923028938168
+    },
+    {
+        "main/loss": 0.7563403844833374,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7547999620437622,
+        "validation/main/accuracy": 0.5,
+        "epoch": 14,
+        "iteration": 14,
+        "elapsed_time": 0.18984933199107173
+    },
+    {
+        "main/loss": 0.754800021648407,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7532714605331421,
+        "validation/main/accuracy": 0.5,
+        "epoch": 15,
+        "iteration": 15,
+        "elapsed_time": 0.20351742103307957
+    },
+    {
+        "main/loss": 0.7532714605331421,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7517547607421875,
+        "validation/main/accuracy": 0.5,
+        "epoch": 16,
+        "iteration": 16,
+        "elapsed_time": 0.21813090927959497
+    },
+    {
+        "main/loss": 0.7517547011375427,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7502499222755432,
+        "validation/main/accuracy": 0.5,
+        "epoch": 17,
+        "iteration": 17,
+        "elapsed_time": 0.2338916491542583
+    },
+    {
+        "main/loss": 0.7502499222755432,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7487571239471436,
+        "validation/main/accuracy": 0.5,
+        "epoch": 18,
+        "iteration": 18,
+        "elapsed_time": 0.2493650059172981
+    },
+    {
+        "main/loss": 0.7487570643424988,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7472761869430542,
+        "validation/main/accuracy": 0.5,
+        "epoch": 19,
+        "iteration": 19,
+        "elapsed_time": 0.2694872406745178
+    },
+    {
+        "main/loss": 0.747276246547699,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.745807409286499,
+        "validation/main/accuracy": 0.5,
+        "epoch": 20,
+        "iteration": 20,
+        "elapsed_time": 0.28577313897339796
+    },
+    {
+        "main/loss": 0.745807409286499,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7443506121635437,
+        "validation/main/accuracy": 0.5,
+        "epoch": 21,
+        "iteration": 21,
+        "elapsed_time": 0.3005380165376436
+    },
+    {
+        "main/loss": 0.7443506121635437,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7429059147834778,
+        "validation/main/accuracy": 0.5,
+        "epoch": 22,
+        "iteration": 22,
+        "elapsed_time": 0.3158494351981019
+    },
+    {
+        "main/loss": 0.7429059147834778,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7414731383323669,
+        "validation/main/accuracy": 0.5,
+        "epoch": 23,
+        "iteration": 23,
+        "elapsed_time": 0.33066762689119045
+    },
+    {
+        "main/loss": 0.7414731979370117,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7400524616241455,
+        "validation/main/accuracy": 0.5,
+        "epoch": 24,
+        "iteration": 24,
+        "elapsed_time": 0.3477914408300126
+    },
+    {
+        "main/loss": 0.7400524616241455,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7386437654495239,
+        "validation/main/accuracy": 0.5,
+        "epoch": 25,
+        "iteration": 25,
+        "elapsed_time": 0.3623145516495591
+    },
+    {
+        "main/loss": 0.7386438250541687,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.737247109413147,
+        "validation/main/accuracy": 0.5,
+        "epoch": 26,
+        "iteration": 26,
+        "elapsed_time": 0.37784521397354764
+    },
+    {
+        "main/loss": 0.737247109413147,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7358623743057251,
+        "validation/main/accuracy": 0.5,
+        "epoch": 27,
+        "iteration": 27,
+        "elapsed_time": 0.3933425193292227
+    },
+    {
+        "main/loss": 0.7358624935150146,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7344896793365479,
+        "validation/main/accuracy": 0.5,
+        "epoch": 28,
+        "iteration": 28,
+        "elapsed_time": 0.4097564285577844
+    },
+    {
+        "main/loss": 0.7344896793365479,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7331287860870361,
+        "validation/main/accuracy": 0.5,
+        "epoch": 29,
+        "iteration": 29,
+        "elapsed_time": 0.4254601479737923
+    },
+    {
+        "main/loss": 0.7331287860870361,
+        "main/accuracy": 0.5,
+        "validation/main/loss": 0.7317796945571899,
+        "validation/main/accuracy": 0.5,
+        "epoch": 30,
+        "iteration": 30,
+        
